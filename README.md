@@ -1,5 +1,5 @@
 # INTERNSAVY
-Projects on Web Development Internship
+Projects on Web Development Internship(Level-2)
 
 Task 1 - Build a Weather App - You can use HTML, CSS, javascript to create a simple but effective website that highlights your strengths and interests.
 
